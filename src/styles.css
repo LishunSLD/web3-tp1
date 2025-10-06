@@ -1,0 +1,6 @@
+:root,
+[data-bs-theme=dark] {
+  --bs-primary: #001372;
+  --bs-primary-rgb: 0, 19, 114;
+  --bs-body-font-family: "Lato", sans-serif;
+}
